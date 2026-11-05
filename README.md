@@ -53,6 +53,18 @@ A storefront and operations management demo connecting orders, inventory, delive
 
 [Read the case study →](case-studies/pescaderia.md)
 
+## Tools behind the work
+
+**Build:** Flutter/Dart, React/TypeScript, Python, Node.js and SQL.
+
+**Cloud & integrations:** Supabase, Render, Firebase, Cloudinary, Google APIs, Gemini and Groq.
+
+**Validate & understand:** Playwright, application/database tests, GA4, API checks and production investigations.
+
+**Design & deliver:** Claude Design, Google Stitch, GitHub, GitHub Actions and Google Play Console.
+
+[See tools by project, their purpose and validation status](technologies.md)
+
 ## Collaboration
 
 I am interested in remote full-stack roles and collaborations with founders and small teams on prototypes, MVPs and business automation.

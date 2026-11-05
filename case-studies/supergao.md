@@ -42,4 +42,10 @@ This is an actively developed product with deployed components. Web and mobile f
 
 Property forms, API contracts, account transitions and the difference between local tests and live validation.
 
+## Tools in this project
+
+Flutter/Dart; React/TypeScript/Vite; Python/aiohttp; PostgreSQL and Supabase Auth/RLS; Render and Firebase Hosting; Cloudinary; Groq API; Telegram Bot API; Google Play Console and Android ADB; Firebase Analytics/Crashlytics/Cloud Messaging; Leaflet; Playwright, Vitest and Flutter tests. Claude Design supported interface exploration. See the inventory for component-specific limits.
+
+[Explore the full tool inventory](../technologies.md)
+
 [Back to selected work](../README.md)

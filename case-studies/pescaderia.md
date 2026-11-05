@@ -42,4 +42,10 @@ This is a focused commerce and operations management system; it is not presented
 
 Order queues, stock reservations, audited adjustments, interruption recovery and interface design for daily operations. Administrative workflows require an authorized walkthrough; no credentials are published.
 
+## Tools in this project
+
+React, TypeScript, Vite, PostgreSQL, Supabase Auth/Edge Functions/Storage, Firebase Hosting, GitHub Actions, Playwright, Node.js tests and PGlite. Google Cloud Console/OAuth configuration and Search Console ownership verification are documented; live sign-in and final brand approval remain separate validation tasks.
+
+[Explore the full tool inventory](../technologies.md)
+
 [Back to selected work](../README.md)

@@ -32,4 +32,10 @@ The local product record documents 88 tests and a Chromium walkthrough at the de
 
 Duplicate prevention, audited corrections, recovery and the boundary between simulation and hardware validation.
 
+## Tools in this project
+
+Python, SQLite, HTML/CSS/JavaScript, unittest and browser validation. Google Stitch supported design explorations. RFID simulation is not equivalent to validated reader hardware.
+
+[Explore the full tool inventory](../technologies.md)
+
 [Back to selected work](../README.md)

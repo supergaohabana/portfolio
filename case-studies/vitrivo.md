@@ -36,4 +36,10 @@ The workspace has been deployed and used. Recent synchronization improvements ha
 
 Reusable assets, synchronization failure states and how catalog changes affect a saved composition.
 
+## Tools in this project
+
+JavaScript/TypeScript, Node.js, Fastify, Vite, IndexedDB, Service Workers/PWA, Supabase, Render, Firebase Hosting, IMG.LY background removal/WebAssembly, Sharp and WebP. Google Stitch supported design. Puter SDK retouch integration has documented simulated-flow validation; a completed real generation is not claimed.
+
+[Explore the full tool inventory](../technologies.md)
+
 [Back to selected work](../README.md)
