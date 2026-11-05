@@ -44,6 +44,20 @@ I am interested in remote full-stack roles and collaborations with founders and 
 
 I can help translate an idea into a scoped first version, design its user workflows, connect frontend and backend, and validate the resulting behavior. Selected workflows can be discussed in a technical walkthrough.
 
+## Academic recognition & languages
+
+- **University of Havana — Tourism degree (2020):** academic average **4.94/5.00**, **Título de Oro** (academic distinction).
+- **UNWTO Students’ League (2020):** member of **Team Cuba Va**, which placed **12th among 60 teams from 32 countries**.
+- **Provincial Economics Forum, Havana (2018):** **Destacado** recognition as co-author of a **Balanced Scorecard proposal for Hotel Nacional de Cuba**.
+
+**Languages:** Spanish — native · French — C1 (self-assessed), with **DELF B2 certification (2022)** · English — B1+.
+
+### Further academic engagement
+
+Participation in the IV National Meeting of Tourism Undergraduate Students (2018) and as a delegate at Havana Model United Nations, HAVMUN (2017 and 2019).
+
+These experiences complement my software work with a background in analysis, management and international collaboration.
+
 ## Development approach
 
 I use AI coding tools as part of implementation and iteration. My responsibilities include product requirements, interface direction, prioritization and workflow validation. The case studies distinguish deployed features, local implementations and prototypes; they do not imply that every project is finished.
