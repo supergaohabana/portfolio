@@ -1,10 +1,12 @@
 # Selected work — Luis Daniel Ortiz Burón
 
-**Software for real operational problems.**
+**Product development · Full-stack · Interfaces · Business automation**
 
-I work on web and mobile products, Python services and business automation. My operations background shapes the questions I ask: what can go wrong, what should the user see, and how do we know the result is correct?
+I connect business understanding with product definition, interface design and full-stack implementation. My work spans property discovery, commerce tools, sports timing and operational reporting.
 
-These case studies describe projects developed with AI coding assistance. They separate implemented behavior from work that still needs validation. This repository contains portfolio material; application source code and business data are not included.
+With a degree in Tourism from the University of Havana and experience in operations, team leadership and commerce analytics, I approach software through the workflow it needs to improve. I help shape a first version, define how people use it and connect the interface to the services and data behind it.
+
+Each case study explains the problem, my contribution, implementation decisions and current status. Product source code and business data remain private.
 
 ## Projects
 
@@ -38,6 +40,12 @@ Python workflows for inventory analysis and recurring operational reports.
 
 ## Collaboration
 
-I am interested in remote product development and automation work. Selected workflows can be discussed in a technical walkthrough.
+I am interested in remote full-stack roles and collaborations with founders and small teams on prototypes, MVPs and business automation.
+
+I can help translate an idea into a scoped first version, design its user workflows, connect frontend and backend, and validate the resulting behavior. Selected workflows can be discussed in a technical walkthrough.
+
+## Development approach
+
+I use AI coding tools as part of implementation and iteration. My responsibilities include product requirements, interface direction, prioritization and workflow validation. The case studies distinguish deployed features, local implementations and prototypes; they do not imply that every project is finished.
 
 [Contact me](mailto:luis97ftur@gmail.com) · [GitHub profile](https://github.com/supergaohabana)
