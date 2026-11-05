@@ -20,8 +20,15 @@ I drive the product requirements and work with AI coding agents on implementatio
 
 - Mobile application built with Flutter, alongside a React and TypeScript web interface.
 - Python API services connecting application workflows and stored property data.
+- A separate web administration panel connected to the backend, with authenticated access and server-side role checks.
 - Account and profile flows, property forms and location selection.
 - Validation of loading, failure and recovery states, including account changes during requests.
+
+## Administration alongside the customer product
+
+The project includes a separate administrative interface for operating the platform. It connects to the existing backend and uses authenticated access with roles checked by the server. This extends the product beyond its customer-facing mobile and web applications.
+
+Administrative access is not published as a public demo. This portfolio does not claim that every administration workflow has been freshly validated.
 
 ## A decision worth discussing
 

@@ -12,13 +12,14 @@ Each case study explains the problem, my contribution, implementation decisions 
 
 - **SuperGao:** [Google Play — Android](https://play.google.com/store/apps/details?id=com.supergaohabana.app) · [Web app](https://supergao-cuba-web.web.app/)
 - **Vitrivo:** [Open the web app](https://vitrivo-estudio.web.app/)
+- **Pescadería 19 y B:** [Presentation demo](https://pescaderia-19-y-b.web.app/) — orders restricted to test accounts.
 - **CRONO:** local prototype; see the case study for its demonstrated workflows and hardware validation limits.
 - **Commerce automation:** internal workflows; described through the case study rather than a public application.
 
 ## Projects
 
 ### 01 · SuperGao
-Property discovery across mobile and web, supported by Python services.
+Property discovery across mobile and web, with a separate administration panel and Python services.
 
 **Focus:** user workflows, API integration and account-aware behavior.
 
@@ -44,6 +45,13 @@ Python workflows for inventory analysis and recurring operational reports.
 **Focus:** reconciling data sources and exposing availability inconsistencies.
 
 [Read the case study →](case-studies/commerce-automation.md)
+
+### 05 · Pescadería 19 y B
+A storefront and operations management demo connecting orders, inventory, delivery and administrative records.
+
+**Focus:** business workflows, administrative interfaces, stock reservations and auditable changes.
+
+[Read the case study →](case-studies/pescaderia.md)
 
 ## Collaboration
 
