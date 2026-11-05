@@ -2,6 +2,12 @@
 
 **Product composition workspace · TypeScript · Node.js · PWA · PostgreSQL**
 
+## Explore
+
+[Open Vitrivo Estudio](https://vitrivo-estudio.web.app/)
+
+Website access checked on November 5, 2026. Account-based features may require access; this check did not validate authentication or synchronization.
+
 ## The problem
 
 Creating commerce visuals repeatedly involves the same assets, product combinations and changing catalog information. A useful tool needs to support both composition and the ongoing maintenance of those inputs.

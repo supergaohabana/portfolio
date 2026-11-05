@@ -2,6 +2,12 @@
 
 **Property platform · React / TypeScript · Flutter · Python · PostgreSQL**
 
+## Explore
+
+[View SuperGao Cuba on Google Play](https://play.google.com/store/apps/details?id=com.supergaohabana.app) · [Open the web app](https://supergao-cuba-web.web.app/)
+
+Public listing and website access checked on November 5, 2026. Android installation eligibility depends on Google Play availability for the visitor. This check did not validate installation or authenticated application workflows.
+
 ## The problem
 
 Property discovery involves more than listing cards: users need account access, consistent property information and practical publishing and management workflows across devices.

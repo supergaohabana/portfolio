@@ -8,6 +8,13 @@ With a degree in Tourism from the University of Havana and experience in operati
 
 Each case study explains the problem, my contribution, implementation decisions and current status. Product source code and business data remain private.
 
+## Project links
+
+- **SuperGao:** [Google Play — Android](https://play.google.com/store/apps/details?id=com.supergaohabana.app) · [Web app](https://supergao-cuba-web.web.app/)
+- **Vitrivo:** [Open the web app](https://vitrivo-estudio.web.app/)
+- **CRONO:** local prototype; see the case study for its demonstrated workflows and hardware validation limits.
+- **Commerce automation:** internal workflows; described through the case study rather than a public application.
+
 ## Projects
 
 ### 01 · SuperGao
